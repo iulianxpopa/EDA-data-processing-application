@@ -1,0 +1,10 @@
+{
+    "localSave" :{
+        "localDirectoryPath" : "CapturedData"
+    },
+
+    "dropboxSave" : {
+        "dropboxAccesToken" : "rZXJoRkxRbAAAAAAAAAAJtT8kSLkb-kkhfNIrmANf-O4DCTnqUllApn9Vxe1w7Ur",
+        "dropboxDirectory" : "devTest"
+    }
+}

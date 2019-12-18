@@ -1,0 +1,7 @@
+__pycache__/
+*.log
+*.csv
+
+in.txt
+
+CapturedData/
